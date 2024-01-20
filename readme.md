@@ -27,7 +27,18 @@ It seems that the English versions are also lagging behind the Chinese versions.
 | Files                                | Ver   | Description                                  |
 | ------------------------------------ | ----- | -------------------------------------------- |
 | Puya.PY32F0xx_DFP.1.1.9.pack         | 1.1.9 | MDK                                          |
-| 如何使用IAR开发调试PY32 MCU V1.0.pdf | V1.0  | How to use IAR to develop and debug PY32 MCU |
 | Puya.PY32_IAR_DFP.0.0.1.rar          | 0.0.1 | IAR (seems that include other PY32 series)   |
 | Puya.PY32F0xx_IAR_DFP.0.0.2.rar      | 0.0.2 | IAR (seems only include PY32F0)              |
+| 如何使用IAR开发调试PY32 MCU V1.0.pdf | V1.0  | How to use IAR to develop and debug PY32 MCU |
+| PY32F0xx_DFP User Manual Rev.1.0.pdf | 1.0   | Chinese                                      |
+
+### More
+
+These files come from `PY32F002B_230807`, `PY32F030 & PY32F003 &PY32F002A_230410` ...
+
+
+
+You can also check out this project (https://github.com/OpenPuya/data/) and website (https://py32.org/).
+
+ I have not compared the differences between this website and my repo. The latest versions of some files may be found in this repo or on that website.
 
