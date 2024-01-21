@@ -1,5 +1,11 @@
 ## PY32F0 series MCU datasheets, packs, reference manuals, etc.
 
+
+
+see PY32F0 template project at [decaday/py32f0_cmake_template](https://github.com/decaday/py32f0_cmake_template)
+
+HAL,LL,CMSIS, BSP Drivers [decaday/PY32F0_Drivers](https://github.com/decaday/PY32F0_Drivers)
+
 #### Notice
 
 Please note that the documentation for Puya Semiconductor is in a semi-public state, and I cannot guarantee the completeness and timeliness of the information. If you have updated or additional information, feel free to contribute.
@@ -29,7 +35,7 @@ It seems that the English versions are also lagging behind the Chinese versions.
 | Puya.PY32F0xx_DFP.1.1.9.pack         | 1.1.9 | MDK                                          |
 | Puya.PY32_IAR_DFP.0.0.1.rar          | 0.0.1 | IAR (seems that include other PY32 series)   |
 | Puya.PY32F0xx_IAR_DFP.0.0.2.rar      | 0.0.2 | IAR (seems only include PY32F0)              |
-| 如何使用IAR开发调试PY32 MCU V1.0.pdf | V1.0  | How to use IAR to develop and debug PY32 MCU |
+| 如何使用IAR开发调试PY32 MCU V1.0.pdf | 1.0   | How to use IAR to develop and debug PY32 MCU |
 | PY32F0xx_DFP User Manual Rev.1.0.pdf | 1.0   | Chinese                                      |
 
 ### More
