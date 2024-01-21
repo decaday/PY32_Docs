@@ -18,15 +18,25 @@ It seems that the English versions are also lagging behind the Chinese versions.
 
 ### Files
 
-| Files           | Description                         | PY32F002B         | PY32F0xx* |
-| --------------- | ----------------------------------- | ----------------- | --------- |
-| Datasheet       |                                     | CH✔  EN✔          | CH✔ EN✔   |
-| DevelopBoard    | StartKit user huide,schematic       | ✔(only schematic) | CH✔ EN✔   |
-| ReferenceManual |                                     | CH✔  EN✔          | CH✔ EN✔   |
-| ApplicationNote |                                     | CH✔  EN✖          | CH✔  EN✖  |
-| HAL_LL          | HAL, LL function description manual | ✖                 | CH✔  EN✖  |
+| Files           | Description                         | PY32F002B         | PY32F0xx* | PY32L020      |
+| --------------- | ----------------------------------- | ----------------- | --------- | ------------- |
+| Datasheet       |                                     | CH✔  EN✔          | CH✔ EN✔   | ✖             |
+| DevelopBoard    | StartKit user huide,schematic       | ✔(only schematic) | CH✔ EN✔   | CH✔(only sch) |
+| ReferenceManual |                                     | CH✔  EN✔          | CH✔ EN✔   | CH✔           |
+| ApplicationNote |                                     | CH✔  EN✖          | CH✔  EN✖  | ✖             |
+| HAL_LL          | HAL, LL function description manual | ✖                 | CH✔  EN✖  | ✖             |
 
-*:Including PY32F002A, PY32F003, PY32F030
+PY32F0xx*:Including PY32F002A, PY32F003, PY32F030
+
+| Files           | Description                         | PY32F040      | PY32071_F072 | PY32F070_M070* |
+| --------------- | ----------------------------------- | ------------- | ------------ | -------------- |
+| Datasheet       |                                     | CH✔           | CH✔          | CH✔            |
+| DevelopBoard    | StartKit user huide,schematic       | CH✔(only sch) |              | ✖              |
+| ReferenceManual |                                     | CH✔           | ✖            | ✖              |
+| ApplicationNote |                                     | CH✔           | ✖            | ✖              |
+| HAL_LL          | HAL, LL function description manual | .chm          | ✖            | ✖              |
+
+PY32F070_M070*:The chip marking of the chip may be M070, but the data sheet is F070. lacks data
 
 ### Packs
 
