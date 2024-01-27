@@ -42,15 +42,34 @@ PY32F070_M070*:The chip marking of the chip may be M070, but the data sheet is F
 
 | Files                                | Ver   | Description                                  |
 | ------------------------------------ | ----- | -------------------------------------------- |
-| Puya.PY32F0xx_DFP.1.1.9.pack         | 1.1.9 | MDK                                          |
+| Puya.PY32F0xx_DFP.1.1.9.pack         | 1.1.9 | PY32F0 MDK(from Puya)                        |
+| Puya.PY32F0xx_DFP.1.2.0.pack         | 1.2.0 | PY32F0 MDK(from keil.arm.com)                |
 | Puya.PY32_IAR_DFP.0.0.1.rar          | 0.0.1 | IAR (seems that include other PY32 series)   |
 | Puya.PY32F0xx_IAR_DFP.0.0.2.rar      | 0.0.2 | IAR (seems only include PY32F0)              |
 | 如何使用IAR开发调试PY32 MCU V1.0.pdf | 1.0   | How to use IAR to develop and debug PY32 MCU |
 | PY32F0xx_DFP User Manual Rev.1.0.pdf | 1.0   | Chinese                                      |
+| Puya.PY32F4xx_DFP.1.0.0.pack         | 1.0.0 | PY32F4 MDK(from keil.arm.com)                |
 
 ### More
 
-These files come from `PY32F002B_230807`.zip, `PY32F030 & PY32F003 &PY32F002A_230410.zip` ,`PY32F072&PY32F071&PY32F070_231115.zip`...
+These files come from :
+
+```
+PY32F002B_230807
+PY32F002B_231026
+PY32L020_231018
+
+PY32F030 & PY32F003 &PY32F002A_230410
+
+PY32F040_230807
+PY32F040_231018
+PY32F040_231115
+
+PY32F072&PY32F071&PY32F070_230703
+PY32F072&PY32F071&PY32F070_231115
+```
+
+https://www.keil.arm.com/packs/py32f0xx_dfp-puya/
 
 
 
