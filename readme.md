@@ -18,17 +18,29 @@ It seems that the English versions are also lagging behind the Chinese versions.
 
 ### Files
 
-| Files           | Description                         | PY32F002B         | PY32F0xx*     | PY32L020      |
-| --------------- | ----------------------------------- | ----------------- | ------------- | ------------- |
-| Datasheet       |                                     | CN✔  EN✔          | CN✔ EN✔       | CN✔           |
-| DevelopBoard    | StartKit user huide,schematic       | ✔(only schematic) | CN✔ EN✔       | CN✔(only sch) |
-| ReferenceManual |                                     | CN✔  EN✔          | CN✔ EN✔       | CN✔           |
-| ApplicationNote |                                     | CN✔  EN✖          | CN✔  EN✖      | CN✔           |
-| HAL_LL          | HAL, LL function description manual | ✖                 | CN✔ (PDF) EN✖ | .chm          |
+The products in the unified table are actually(maybe) the same die, and the information can be cross-referenced.(However, please also study and discern **on your own**!)
+
+| Folders         | Description                         | PY32F002B         | PY32L020      | PY32C642 |
+| --------------- | ----------------------------------- | ----------------- | ------------- | -------- |
+| Datasheet       |                                     | CN✔  EN✔          | CN✔           | CN✔      |
+| DevelopBoard    | StartKit user huide,schematic       | ✔(only schematic) | CN✔(only sch) | ✖        |
+| ReferenceManual |                                     | CN✔  EN✔          | CN✔           | ✖        |
+| ApplicationNote |                                     | CN✔  EN✖          | CN✔           | ✖        |
+| HAL_LL          | HAL, LL function description manual | ✖                 | .chm          | ✖        |
+
+
+
+| Folders         | Description                         | PY32F0xx*     | PY32C613 |
+| --------------- | ----------------------------------- | ------------- | -------- |
+| Datasheet       |                                     | CN✔ EN✔       | CN✔      |
+| DevelopBoard    | StartKit user huide,schematic       | CN✔ EN✔       | ✖        |
+| ReferenceManual |                                     | CN✔ EN✔       | CN✔      |
+| ApplicationNote |                                     | CN✔  EN✖      | CN✔      |
+| HAL_LL          | HAL, LL function description manual | CN✔ (PDF) EN✖ | .chm     |
 
 PY32F0xx*:Including PY32F002A, PY32F003, PY32F030
 
-| Files           | Description                         | PY32F040 | PY32071_F072 | PY32F070_M070* | PY32F403 |
+| Folders         | Description                         | PY32F040 | PY32071_F072 | PY32F070_M070* | PY32F403 |
 | --------------- | ----------------------------------- | -------- | ------------ | -------------- | -------- |
 | Datasheet       |                                     | CN✔      | CN✔          | CN✔            | CN✔      |
 | DevelopBoard    | StartKit user huide,schematic       | CN✔      | CN✔          | ✖              | ✖        |
@@ -37,6 +49,16 @@ PY32F0xx*:Including PY32F002A, PY32F003, PY32F030
 | HAL_LL          | HAL, LL function description manual | .chm     | .chm         | ✖              | ✖        |
 
 PY32F070_M070*:The chip marking of the chip may be M070, but the data sheet is F070. lacks data
+
+| Folders         | Description                         | PY32F403 |
+| --------------- | ----------------------------------- | -------- |
+| Datasheet       |                                     | CN✔      |
+| DevelopBoard    | StartKit user huide,schematic       | ✖        |
+| ReferenceManual |                                     | ✖        |
+| ApplicationNote |                                     | ✖        |
+| HAL_LL          | HAL, LL function description manual | ✖        |
+
+
 
 ### Packs
 
