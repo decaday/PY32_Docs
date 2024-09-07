@@ -8,11 +8,25 @@
 
 HAL,LL,CMSIS, BSP Drivers [decaday/PY32F0_Drivers](https://github.com/decaday/PY32F0_Drivers)
 
-#### Notice
+# Notice
+
+**After July 2024, [the puyasemi official website](https://www.puyasemi.com) provides downloads of most materials. You can download official materials [here](https://www.puyasemi.com/download.html).**
+
+
+
+**After July 2024, [the puyasemi official website](https://www.puyasemi.com) provides downloads of most materials. You can download official materials [here](https://www.puyasemi.com/download.html).**
+
+
+
+--------------------
+
+--------------------
+
+
 
 Please note that the documentation for Puya Semiconductor is in a semi-public state, and I cannot guarantee the completeness and timeliness of the information. If you have updated or additional information, feel free to contribute.
 
-#### About document language
+### About document language
 
 Only the datasheet and some parts of the reference manual have English versions, and the English materials are all suffixed with `_EN`.
 
