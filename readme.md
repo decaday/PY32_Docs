@@ -2,7 +2,7 @@
 
 
 
-# see PY32F0 template project at [decaday/py32f0_cmake_template](https://github.com/decaday/py32f0_cmake_template)
+# see PY32F0 template project at [decaday/py32f0-cmake](https://github.com/decaday/py32f0-cmak)
 
 
 
