@@ -1,28 +1,56 @@
 ## PY32F0 series MCU datasheets, packs, firmwares, tools, reference manuals, etc.
 
+Repositories related to py32:
+
+CSDK:
+
+- [OpenPuya](https://github.com/OpenPuya) Docs, Firmwares for py32
+
+- [decaday/py32f0-cmake](https://github.com/decaday/py32f0-cmake) PY32F0 cmake template project
+
+- [decaday/PY32F0_Drivers](https://github.com/decaday/PY32F0_Drivers) HAL,LL,CMSIS, BSP Drivers
+
+- [IOsetting/py32f0-template](https://github.com/IOsetting/py32f0-template) PY32F0 makefile(linux) template
+
+- [SoCXin/PY32F002](https://github.com/SoCXin/PY32F002)
+
+Rust:
+
+- [py32-rs/py32-hal](https://github.com/py32-rs/py32-hal) Rust HAL implementation and Embassy support for py32
+
+- [py32-rs/py32-data](https://github.com/py32-rs/py32-data) metapac auto-generating for py32
+
+- [creatoy/py32f0xx-hal](https://github.com/creatoy/py32f0xx-hal) A Rust `embedded-hal` implementation
+
+- [decaday/py32csdk-hal-sys](https://github.com/decaday/py32csdk-hal-sys) PY32F0 MCU cSDK bindings
+
+Arduino:
+
+- [py32duino/Arduino-PY32](https://github.com/py32duino/Arduino-PY32) Arduino core for py32
+
+PCB Symbols:
+
+- [dreamcmi/Kicad-MCU-Puya](https://github.com/dreamcmi/Kicad-MCU-Puya) Puya PY32 Series KICAD7 Symbol
+
+- [HalfSweet/KiCad Symbols · GitLab](https://gitlab.com/HalfSweet1/kicad-symbols/-/tree/PY32) PY32 Symbols in Halfsweet's fork
+
+PCB, Devboards:
+
+- [HalfSweet/PY32F030K28U_Arduino_Nano](https://github.com/HalfSweet/PY32F030K28U_Arduino_Nano): An Arduino Nano-like PY32F030K28 Development Board
+
+- [wagiminator/Development-Boards](https://github.com/wagiminator/Development-Boards): Collection of various development boards
+
+- [gpgreen/py32_dev](https://github.com/gpgreen/py32_dev) : puya py32 cortex m0 development board
 
 
-# see PY32F0 template project at [decaday/py32f0-cmake](https://github.com/decaday/py32f0-cmake)
-
-
-
-HAL,LL,CMSIS, BSP Drivers [decaday/PY32F0_Drivers](https://github.com/decaday/PY32F0_Drivers)
 
 # Notice
 
 **After July 2024, [the puyasemi official website](https://www.puyasemi.com) provides downloads of most materials. You can download official materials [here](https://www.puyasemi.com/download.html).**
 
-
-
-**After July 2024, [the puyasemi official website](https://www.puyasemi.com) provides downloads of most materials. You can download official materials [here](https://www.puyasemi.com/download.html).**
-
-
-
 --------------------
 
 --------------------
-
-
 
 Please note that the documentation for Puya Semiconductor is in a semi-public state, and I cannot guarantee the completeness and timeliness of the information. If you have updated or additional information, feel free to contribute.
 
@@ -44,8 +72,6 @@ The products in the unified table are actually(maybe) the same die, and the info
 | ApplicationNote |                                     | CN✔  EN✖          | CN✔           | ✖        |
 | HAL_LL          | HAL, LL function description manual | ✖                 | .chm          | ✖        |
 | Firmware        |                                     | ✔0.0.4            | ✔1.0.0        |          |
-
-
 
 | Folders         | Description                         | PY32F0xx*     | PY32C613 |
 | --------------- | ----------------------------------- | ------------- | -------- |
@@ -77,10 +103,6 @@ PY32F070_M070*:The chip marking of the chip may be M070, but the data sheet is F
 | HAL_LL          | HAL, LL function description manual | .chm     |
 | Firmware        |                                     | 1.0.1    |
 
-
-
-
-
 ### Packs
 
 | Files                                | Ver   | Description                                  |
@@ -89,7 +111,7 @@ PY32F070_M070*:The chip marking of the chip may be M070, but the data sheet is F
 | Puya.PY32F0xx_DFP.1.2.0.pack         | 1.2.0 | PY32F0 MDK(from keil.arm.com)                |
 | Puya.PY32_IAR_DFP.0.0.3.zip          | 0.0.3 | IAR (seems that include other PY32 series)   |
 | Puya.PY32F0xx_IAR_DFP.0.0.2.rar      | 0.0.2 | IAR (seems only include PY32F0)              |
-| 如何使用IAR开发调试PY32 MCU V1.0.pdf | 1.0   | How to use IAR to develop and debug PY32 MCU |
+| 如何使用IAR开发调试PY32 MCU V1.0.pdf         | 1.0   | How to use IAR to develop and debug PY32 MCU |
 | PY32F0xx_DFP User Manual Rev.1.0.pdf | 1.0   | Chinese                                      |
 | Puya.PY32F4xx_DFP.1.0.0.pack         | 1.0.0 | PY32F4 MDK                                   |
 
@@ -114,9 +136,6 @@ PY32F072&PY32F071&PY32F070_231115
 
 https://www.keil.arm.com/packs/py32f0xx_dfp-puya/
 
-
-
 You can also check out this project (https://github.com/OpenPuya/data/) and website (https://py32.org/).
 
  I have not compared the differences between this website and my repo. The latest versions of some files may be found in this repo or on that website.
-
