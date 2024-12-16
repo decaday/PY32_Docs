@@ -5,23 +5,17 @@ Repositories related to py32:
 CSDK:
 
 - [OpenPuya](https://github.com/OpenPuya) Docs, Firmwares for py32
-
 - [decaday/py32f0-cmake](https://github.com/decaday/py32f0-cmake) PY32F0 cmake template project
-
 - [decaday/PY32F0_Drivers](https://github.com/decaday/PY32F0_Drivers) HAL,LL,CMSIS, BSP Drivers
-
 - [IOsetting/py32f0-template](https://github.com/IOsetting/py32f0-template) PY32F0 makefile(linux) template
-
 - [SoCXin/PY32F002](https://github.com/SoCXin/PY32F002)
+- [OS-Q/platform-puya](https://github.com/OS-Q/platform-puya) OS-Q platform for PY32F0xx
 
 Rust:
 
 - [py32-rs/py32-hal](https://github.com/py32-rs/py32-hal) Rust HAL implementation and Embassy support for py32
-
 - [py32-rs/py32-data](https://github.com/py32-rs/py32-data) metapac auto-generating for py32
-
 - [creatoy/py32f0xx-hal](https://github.com/creatoy/py32f0xx-hal) A Rust `embedded-hal` implementation
-
 - [decaday/py32csdk-hal-sys](https://github.com/decaday/py32csdk-hal-sys) PY32F0 MCU cSDK bindings
 
 Arduino:
@@ -31,18 +25,13 @@ Arduino:
 PCB Symbols:
 
 - [dreamcmi/Kicad-MCU-Puya](https://github.com/dreamcmi/Kicad-MCU-Puya) Puya PY32 Series KICAD7 Symbol
-
 - [HalfSweet/KiCad Symbols · GitLab](https://gitlab.com/HalfSweet1/kicad-symbols/-/tree/PY32) PY32 Symbols in Halfsweet's fork
 
 PCB, Devboards:
 
 - [HalfSweet/PY32F030K28U_Arduino_Nano](https://github.com/HalfSweet/PY32F030K28U_Arduino_Nano): An Arduino Nano-like PY32F030K28 Development Board
-
 - [wagiminator/Development-Boards](https://github.com/wagiminator/Development-Boards): Collection of various development boards
-
 - [gpgreen/py32_dev](https://github.com/gpgreen/py32_dev) : puya py32 cortex m0 development board
-
-
 
 # Notice
 
