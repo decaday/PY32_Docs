@@ -53,24 +53,22 @@ It seems that the English versions are also lagging behind the Chinese versions.
 
 The products in the unified table are actually(maybe) the same die, and the information can be cross-referenced.(However, please also study and discern **on your own**!)
 
-| Folders         | Description                         | PY32F002B         | PY32L020      | PY32C642 |
-| --------------- | ----------------------------------- | ----------------- | ------------- | -------- |
-| Datasheet       |                                     | CN✔  EN✔          | CN✔           | CN✔      |
-| DevelopBoard    | StartKit user huide,schematic       | ✔(only schematic) | CN✔(only sch) | ✖        |
-| ReferenceManual |                                     | CN✔  EN✔          | CN✔           | ✖        |
-| ApplicationNote |                                     | CN✔  EN✖          | CN✔           | ✖        |
-| HAL_LL          | HAL, LL function description manual | ✖                 | .chm          | ✖        |
-| Firmware        |                                     | ✔0.0.4            | ✔1.0.0        |          |
+| Folders         | Description                         | PY32F002B         | PY32L020    | PY32C642/C641 |
+| --------------- | ----------------------------------- | ----------------- | ----------- | ------------- |
+| Datasheet       |                                     | CN✔  EN✔          | CN✔         | CN✔           |
+| DevelopBoard    | StartKit user huide,schematic       | ✔(only schematic) | ✔(only sch) | ✔             |
+| ReferenceManual |                                     | CN✔  EN✔          | CN✔         | ✖             |
+| ApplicationNote |                                     | CN✔  EN✖          | CN✔         | ✖             |
+| HAL_LL          | HAL, LL function description manual | ✖                 | .chm        | ✖             |
+| Firmware        |                                     | ✔0.0.4            | ✔1.0.0      | ✔0.0.1        |
 
-| Folders         | Description                         | PY32F0xx*     | PY32C613 |
-| --------------- | ----------------------------------- | ------------- | -------- |
-| Datasheet       |                                     | CN✔ EN✔       | CN✔      |
-| DevelopBoard    | StartKit user huide,schematic       | CN✔ EN✔       | ✖        |
-| ReferenceManual |                                     | CN✔ EN✔       | CN✔      |
-| ApplicationNote |                                     | CN✔  EN✖      | CN✔      |
-| HAL_LL          | HAL, LL function description manual | CN✔ (PDF) EN✖ | .chm     |
-
-PY32F0xx*:Including PY32F002A, PY32F003, PY32F030
+| Folders         | Description                         | PY32F030/F003/F002A | PY32C613 |
+| --------------- | ----------------------------------- | ------------------- | -------- |
+| Datasheet       |                                     | CN✔ EN✔             | CN✔      |
+| DevelopBoard    | StartKit user huide,schematic       | CN✔ EN✔             | ✖        |
+| ReferenceManual |                                     | CN✔ EN✔             | CN✔      |
+| ApplicationNote |                                     | CN✔  EN✖            | CN✔      |
+| HAL_LL          | HAL, LL function description manual | CN✔ (PDF) EN✖       | .chm     |
 
 | Folders         | Description                         | PY32F040 | PY32F071_072 | PY32F070_M070* |
 | --------------- | ----------------------------------- | -------- | ------------ | -------------- |
