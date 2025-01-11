@@ -33,6 +33,14 @@ PCB, Devboards:
 - [wagiminator/Development-Boards](https://github.com/wagiminator/Development-Boards): Collection of various development boards
 - [gpgreen/py32_dev](https://github.com/gpgreen/py32_dev) : puya py32 cortex m0 development board
 
+Puya PY32 based projects:
+
+- [ArcaneNibble/puya-spinner](https://github.com/ArcaneNibble/puya-spinner) : PY32F002AL15 based 'fidget spinner' project. PCB and firmware.
+
+- [grahamwhaley/py32c642_vape](https://github.com/grahamwhaley/py32c642_vape) : Reverse engineer schematic and test firmware of PY32C642F15 based e-cigarette 'vape' board.
+
+- [radex/puya-experiments](https://github.com/radex/puya-experiments) : PY32 F002 and F003 PCB breakout board designs.
+
 # Notice
 
 **After July 2024, [the puyasemi official website](https://www.puyasemi.com) provides downloads of most materials. You can download official materials [here](https://www.puyasemi.com/download.html).**
